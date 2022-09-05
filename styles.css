@@ -21,6 +21,14 @@
 .space-evenly{
     justify-content: space-evenly;
 }
+.exercicioB{
+    justify-content: flex-start;
+    flex-direction: column-reverse;
+}
+.desafio{
+    justify-content: flex-end;
+   flex-direction: row-reverse;
+}
 .filho{
     width: 50px;
     margin: 5px;
